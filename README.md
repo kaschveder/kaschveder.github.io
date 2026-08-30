@@ -8,4 +8,5 @@ E-mails:
 - kaschveder [AT] gmail DOT com (business)
 - kschvede [AT] kent DOT edu (academics)
 
-Office: MSB 215
+Office: KSU MSB 215
+
