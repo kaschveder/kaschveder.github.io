@@ -6,4 +6,4 @@ gem 'rack', '~> 2.2.4'
 gem 'rspec'
 
 $ bundle install
-$ git add Gemfile Gemfile.loc
+$ git add Gemfile Gemfile.lock
